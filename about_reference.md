@@ -1,3 +1,4 @@
+<!---
 ---
 layout: inner
 title: About
@@ -203,3 +204,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
 {% endhighlight %}
+-->

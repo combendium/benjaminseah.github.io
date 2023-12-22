@@ -262,6 +262,8 @@ button.btn, input.btn {
     @include bp-small {
       display: none;
     }
+    max-width: 128px; /* Set the maximum width as per your requirement */
+    height: auto;
   }
   .content {
     margin-top: 5em;

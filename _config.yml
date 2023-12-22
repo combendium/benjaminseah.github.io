@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Benjamin Seah."
+title: "Hello, I'm Benjamin Seah."
 email: 'benjamin_seah@outlook.com'
-description: "Aspiring data scientist with a chemistry and manufacturing background, looking postiive improvements."
+description: "Aspiring data scientist with a chemistry and manufacturing background, looking to drive positive changes."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://combendium.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 #twitter_username: 'tbc'

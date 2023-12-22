@@ -17,7 +17,7 @@ title: "Hello. I'm Benjamin Seah."
 email: 'benjamin_seah@outlook.com'
 description: "Aspiring data scientist with a chemistry and manufacturing background, looking postiive improvements."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://benjaminseah.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://combendium.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 #twitter_username: 'tbc'
 github_username: 'combendium'
 #medium_username: '@benjamin_seah'

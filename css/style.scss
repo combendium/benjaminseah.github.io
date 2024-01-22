@@ -28,7 +28,7 @@ $secondary: #FF7B7B;
 
 @media (min-width: 400px) {
   .container {
-    width: 30%; /* Adjustable based on the proportion of screen desired */
+    width: 100%; /* Adjustable based on the proportion of screen desired */
     margin: 0 auto; /* Center the container on larger screens */
   }
 }
